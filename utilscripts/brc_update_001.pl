@@ -19,10 +19,11 @@
 #        VERSION: 1.0
 #        CREATED: 2015-07-24 03:30:00 IST +0530 
 #       REVISION: ---
+#        LICENSE: GNU General Public License v3.0 
+#   LICENSE_TEXT: http://www.gnu.org/licenses/gpl-3.0.txt
 #===============================================================================
 
-use strict;
-use warnings;
+use Modern::Perl;
 
 use C4::Context;
 use C4::Biblio;
