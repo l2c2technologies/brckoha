@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\BRCUtils #2 - Rename files to BRC naming schema]
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\BRCUtils #2 - Rename files to BRC naming schema\command]
+@="\"C:\\Users\\indradg\\Desktop\\brcutils\\iabkrenamer.cmd\""
