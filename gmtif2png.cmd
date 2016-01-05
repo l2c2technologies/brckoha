@@ -12,6 +12,6 @@ rem convert TIFF to PNG
 gm mogrify -format png *.tif
 
 rem remove the TIFF files
-for /r %%i in (*.tif) do delete %%i
+for /r %%i in (*.tif) do del %%i
 
 endlocal
