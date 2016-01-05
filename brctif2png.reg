@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\BRCUtils #1 - Convert B/W TIFF2PNG]
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\BRCUtils #1 - Convert B/W TIFF2PNG\command]
+@="\"C:\\Users\\indradg\\Desktop\\brcutils\\gmtif2png.cmd\""
